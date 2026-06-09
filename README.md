@@ -130,4 +130,4 @@ vercel --prod
 
 ## Live Demo
 
-[your-app.vercel.app](https://your-app.vercel.app)
+[subtrack-omega.vercel.app](https://subtrack-omega.vercel.app)
